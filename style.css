@@ -1,6 +1,6 @@
 /* ID Selector */
 #main-header {
-    background-color: #4a90e2;
+    background-color: blue;
     color: white;
     padding: 20px;
     text-align: center;
@@ -11,24 +11,24 @@
   .content {
     margin: 20px;
     font-size: 18px;
-    color: #333;
+    color: gray;
     font-family: 'Georgia', serif;
     line-height: 1.6;
   }
   
   /* Element Selector */
   footer {
-    background-color: #eee;
+    background-color: white;
     padding: 10px;
     text-align: center;
-    border-top: 2px solid #ccc;
+    border-top: 2px solid white;
   }
   
-  /* Image Styling */
+  
   .styled-image {
     display: block;
     margin: 20px auto;
-    border: 5px solid #4a90e2;
+    border: 5px solid blue;
     padding: 5px;
     border-radius: 10px;
   }
